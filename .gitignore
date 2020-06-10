@@ -47,4 +47,7 @@ vendor/bundle
 _zip
 /stats.json
 
+# Hydejack Original docs & post
+hydejack_*
+
 #<removed>
