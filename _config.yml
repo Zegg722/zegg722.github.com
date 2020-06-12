@@ -51,8 +51,6 @@ menu:
     url:               /hydejack/
   - title:             Hyde
     url:               /hyde/
-  - title:             Documentation
-    url:               /docs/
   - title:             About
     url:               /about/
 
