@@ -24,11 +24,11 @@ title:                 Zegg
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  It's on me
+  It's on me.
 
 # A shorter description for the sidebar.
 tagline:               >
-  It's on me
+  It's on me.
 
 # A list of keywords for your blog
 keywords:              []
